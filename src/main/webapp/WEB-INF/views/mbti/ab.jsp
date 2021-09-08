@@ -17,7 +17,13 @@
 	<c:import url="/WEB-INF/views/include/top_menu.jsp"/>
 	
 <div class=wrap>
-	
+	<h2>바볼랏 부스트 에어로</h2>
+	<img src="image/Babolat Boost Aero.jpg" alt="" />
+	<img src="image/Babolat Boost Aero 1.jpg" alt="" />
+	<img src="image/Babolat Boost Aero 2.jpg" alt="" />
+	<img src="image/Babolat Boost Aero 3.jpg" alt="" />
+	<img src="image/Babolat Boost Aero 4.jpg" alt="" />
+	<img src="image/Babolat Boost Aero 5.jpg" alt="" />
 </div>
 	
 <!-- 하단 정보 -->

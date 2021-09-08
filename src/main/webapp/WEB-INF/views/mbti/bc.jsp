@@ -17,7 +17,13 @@
 	<c:import url="/WEB-INF/views/include/top_menu.jsp"/>
 	
 <div class=wrap>
-	
+	<h2>요넥스 E-ZONE 98</h2>
+	<img src="image/Yonex EZONE 98.jpg" alt="" />
+	<img src="image/Yonex EZONE 98 1.jpg" alt="" />
+	<img src="image/Yonex EZONE 98 2.jpg" alt="" />
+	<img src="image/Yonex EZONE 98 3.jpg" alt="" />
+	<img src="image/Yonex EZONE 98 4.jpg" alt="" />
+	<img src="image/Yonex EZONE 98 5.jpg" alt="" />
 </div>
 	
 <!-- 하단 정보 -->

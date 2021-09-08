@@ -17,7 +17,13 @@
 	<c:import url="/WEB-INF/views/include/top_menu.jsp"/>
 	
 <div class=wrap>
-	
+	<h2>프린스 03 레거시 120</h2>
+	<img src="image/Prince O3 Legacy 120.jpg" alt="" />
+	<img src="image/Prince O3 Legacy 120 1.jpg" alt="" />
+	<img src="image/Prince O3 Legacy 120 2.jpg" alt="" />
+	<img src="image/Prince O3 Legacy 120 3.jpg" alt="" />
+	<img src="image/Prince O3 Legacy 120 4.jpg" alt="" />
+	<img src="image/Prince O3 Legacy 120 5.jpg" alt="" />
 </div>
 	
 <!-- 하단 정보 -->

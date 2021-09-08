@@ -17,7 +17,23 @@
 	<c:import url="/WEB-INF/views/include/top_menu.jsp"/>
 	
 <div class=wrap>
+	<h2>바볼랏 퓨어 드라이브 2021</h2>
+	<img src="image/Babolat Pure Drive 2021.jpg" alt="" />
+	<img src="image/Babolat Pure Drive 2021 1.jpg" alt="" />
+	<img src="image/Babolat Pure Drive 2021 2.jpg" alt="" />
+	<img src="image/Babolat Pure Drive 2021 3.jpg" alt="" />
+	<img src="image/Babolat Pure Drive 2021 4.jpg" alt="" />
+	<img src="image/Babolat Pure Drive 2021 5.jpg" alt="" />
 	
+	<br />
+	
+	<h2>바볼랏 퓨어 에어로</h2>
+	<img src="image/Babolat Pure Aero.jpg" alt="" />
+	<img src="image/Babolat Pure Aero 1.jpg" alt="" />
+	<img src="image/Babolat Pure Aero 2.jpg" alt="" />
+	<img src="image/Babolat Pure Aero 3.jpg" alt="" />
+	<img src="image/Babolat Pure Aero 4.jpg" alt="" />
+	<img src="image/Babolat Pure Aero 5.jpg" alt="" />
 </div>
 	
 <!-- 하단 정보 -->
