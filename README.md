@@ -39,6 +39,8 @@
 ![라켓 MBTI](https://user-images.githubusercontent.com/84412265/132436845-d0848371-258f-40bd-b780-2aec0d9ac655.png)
 ![라켓 MBTI 1](https://user-images.githubusercontent.com/84412265/132436822-43ede248-4c6b-4995-b132-bffcd34d68f7.png)
 ![라켓 MBTI 2](https://user-images.githubusercontent.com/84412265/132436831-e7279662-f700-4bb3-b0fd-c439092c3506.png)
+![MBTI 3](https://user-images.githubusercontent.com/84412265/132780939-a5f933f4-d309-43ee-a6e4-425dceccbec9.png)
+![MBTI 4](https://user-images.githubusercontent.com/84412265/132780943-2245d050-1cf8-4153-a15e-e4957390f4bb.png)
 
 
 form항목의 value값을 받아 페이지를 요청하는 방식이었는데 결과값으로 넘어가질 않아서 submit 버튼을 만들고 다음의 코드로 주소 뒤에 value값이 붙게 만들었습니다  
