@@ -31,6 +31,21 @@ values (1, 'abcd', '1234', '네글자임', '12345', '주소1', '주소2');
 
 select * from user_table;
 
+-- 게시판 테이블
+create table board_table(
+	board_idx number constraint board_pk primary key,
+	board_name varchar2(500) not null constraint board_uq unique
+	);
+
+-- 초기 데이터
+insert into board_table(board_idx, board_name) values (1, '공지사항');
+insert into board_table(board_idx, board_name) values (2, '질문 게시판');
+insert into board_table(board_idx, board_name) values (3, '토론 게시판');
+insert into board_table(board_idx, board_name) values (4, '친선 경기');
+insert into board_table(board_idx, board_name) values (5, '레슨 게시판');
+
+select * from board_table;
+
 -- 게시글 테이블
 create table content_table(
 	content_idx number constraint content_pk primary key,
@@ -53,24 +68,12 @@ select * from content_table;
 delete from user_table;
 delete from content_table;
 
--- 게시판 테이블
-create table board_table(
-	board_idx number constraint board_pk primary key,
-	board_name varchar2(500) not null constraint board_uq unique
-	);
-
--- 초기 데이터
-insert into board_table(board_idx, board_name) values (1, '공지사항');
-insert into board_table(board_idx, board_name) values (2, '질문 게시판');
-insert into board_table(board_idx, board_name) values (3, '토론 게시판');
-insert into board_table(board_idx, board_name) values (4, '친선 경기');
-insert into board_table(board_idx, board_name) values (5, '레슨 게시판');
-
-select * from board_table;
-
 -- 상품 테이블
 create table item_table(
-	item_
+	item_idx number constraint item_pk primary key,
+	item_type varchar(500) not null,
+	item_name varchar(500) not null,
+	item_price number
 	
 -- commit
 commit;
